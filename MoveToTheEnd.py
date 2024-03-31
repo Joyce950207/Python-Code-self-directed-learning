@@ -4,7 +4,7 @@ Name: Joyce
 ------------------------
 This file shows how to use while loop
 to walk to the end of a certain 
-row in karel world
+row in Karel world
 """
 
 from karel.stanfordkarel import *
