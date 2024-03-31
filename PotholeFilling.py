@@ -3,7 +3,7 @@ File: PotholeFilling.py
 Name: Joyce
 --------------------------
 This program shows karel filling 3
-potholes. Students learn the concept of
+potholes. Learning the concept of
 decomposition through the process.
 """
 
