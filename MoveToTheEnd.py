@@ -3,24 +3,18 @@ File: MoveToTheEnd.py
 Name: Joyce
 ------------------------
 This file shows how to use while loop
-to walk to the end and at the same time 
-put one beeper in one box of a certain 
+to walk to the end of a certain 
 row in karel world
 """
 
 from karel.stanfordkarel import *
 
 def main():
+     """
+    Karel will move to the end of the first Street in any world
+    """
     while front_is_clear():
-        if on_beeper():
-            move()
-        else:
-            put_beeper()
-            move()
-    if on_beeper():
-        pass
-    else:
-        put_beeper()
+        move()
 
 
 # ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
