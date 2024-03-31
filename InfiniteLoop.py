@@ -3,7 +3,7 @@ File: InfiniteLoop.py
 Name: Joyce
 ------------------------
 This file shows the idea of infinite loop,
-reminding students one of the 3 bugs in using
+reminding one of the 3 bugs in using
 while loop
 """
 
