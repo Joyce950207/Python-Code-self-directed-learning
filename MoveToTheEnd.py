@@ -3,8 +3,9 @@ File: MoveToTheEnd.py
 Name: Joyce
 ------------------------
 This file shows how to use while loop
-to walk to the end of a certain row in
-karel world
+to walk to the end and at the same time 
+put one beeper in one box of a certain 
+row in karel world
 """
 
 from karel.stanfordkarel import *
